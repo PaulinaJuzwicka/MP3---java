@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MP3</string>
+    <string name="no_songs_found">NO SONGS FOUND</string>
+    <string name="back">Back</string>
+    <string name="title_of_the_song">Title of the song</string>
+    <string name="todo">TODO</string>
+    <string name="_0_00">0:00</string>
+</resources>
